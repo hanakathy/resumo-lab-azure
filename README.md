@@ -11,4 +11,7 @@ O bootcamp, fruto da parceria entre a Microsoft e a DIO, oferece um guia complet
 ![microsoft sql server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![github](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+❤ [LinkedIn](https://www.linkedin.com/in/katherine-m-a2786a200/) - [DIO](https://web.dio.me/users/hanakathy)
