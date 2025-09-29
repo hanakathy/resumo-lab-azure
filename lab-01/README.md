@@ -16,4 +16,4 @@ Em resumo, o laboratório mostrou o visual das ferramentas já mencionadas duran
 
 ---
 
-⭐ Este repositório tem como objetivo consolidar conhecimentos do bootcamp [Microsoft - Azure AZ-900 da DIO](https://web.dio.me/track/microsoft-azure-az-900).
+⭐ Este desafio faz parte das atividades do bootcamp [Microsoft - Azure AZ-900 da DIO](https://web.dio.me/track/microsoft-azure-az-900).
