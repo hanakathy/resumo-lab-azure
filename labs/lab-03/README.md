@@ -1,7 +1,6 @@
 # Desafio de Projeto - Microsoft Azure AZ-900
 ### Configurando uma Instância de Banco de Dados na Azure
 
-
 Há três produtos SQL que Azure oferece:
 
 - [Banco de Dados SQL do Azure](#banco-de-dados-sql-do-azure)
@@ -18,8 +17,6 @@ Há três produtos SQL que Azure oferece:
 O SQL Server em Máquinas Virtuais do Azure é uma solução IaaS que permite executar qualquer versão suportada do SQL Server em VMs Windows ou Linux totalmente gerenciadas na nuvem. Ideal para migrações rápidas e aplicações que exigem controle total sobre o sistema operacional e o mecanismo de banco de dados, essa opção oferece flexibilidade para personalizar configurações, realizar manutenções sob demanda e adaptar o ambiente conforme as necessidades do aplicativo. É especialmente útil para cenários de desenvolvimento, teste e implantações híbridas, permitindo o uso de licenças existentes ou por demanda. Embora ofereça autonomia administrativa completa, também exige que a organização gerencie a infraestrutura da VM.
 
 Referência: [Microsoft Learn](https://learn.microsoft.com/pt-br/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=azuresql)
-
-
 
 ---
 

@@ -1,7 +1,6 @@
 # Desafio de Projeto - Microsoft Azure AZ-900
 ### Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 
-
 - [Criando uma VM](#criando-uma-vm)
 - [Conectando via Área de Trabalho Remota](#conectando-via-área-de-trabalho-remota-e-instalando-o-iis)
 - [Finalizando](#finalizando-limpando-recursos-ou-configurando-auto-desligamento)
@@ -18,7 +17,6 @@ Quando terminar o uso, você pode excluir o grupo de recursos para remover a VM 
 
 **Referências:**
 [Quickstart: Create a Windows virtual machine in the Azure portal](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal)
-
 
 ---
 

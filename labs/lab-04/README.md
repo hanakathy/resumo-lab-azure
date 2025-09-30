@@ -1,7 +1,6 @@
 # Desafio de Projeto - Microsoft Azure AZ-900
 ### Construindo Arquiteturas no Azure
 
-
 Componentes da Arquitetura do Azure:
 
 - [Infraestrutura Global do Azure](#infraestrutura-global-do-azure)
@@ -25,8 +24,6 @@ Cada item só pode pertencer a um único grupo por vez, mas pode ser incluído, 
 1. [Global Infrastructure](https://azure.microsoft.com/pt-br/explore/global-infrastructure/)
 2. [Datacenters](https://datacenters.microsoft.com/)
 3. [Grupo de Recursos](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview#resource-groups)
-
-
 
 ---
 

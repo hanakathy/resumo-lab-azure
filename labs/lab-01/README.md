@@ -1,7 +1,6 @@
 # Desafio de Projeto - Microsoft Azure AZ-900
 ### Localizando Serviços por Categoria
 
-
 Neste laboratório foi possível aprender sobre a localização dos principais itens do portal da Azure, assim como o personalização do da aparência do portal.
 
 Na tela inicial do portal, é possível acessar um menu lateral onde fica fácil acesso à estrutura do portal.
