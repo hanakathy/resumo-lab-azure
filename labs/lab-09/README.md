@@ -30,8 +30,8 @@ Essas políticas são aplicadas em escopos como grupos de recursos, assinaturas 
 
 **Referências:**
 
-1. [Otimização de Custos](https://azure.microsoft.com/pt-br/solutions/cost-optimization/)
-2. [Calculadora' de Preços da Azure](https://azure.microsoft.com/pt-br/pricing/calculator/)
+1. [Service Trust Portal](https://servicetrust.microsoft.com/)
+2. [Compliance Program Microsoft Cloud](https://www.microsoft.com/en-us/security/business/services/compliance-program-Microsoft-cloud)
 
 ---
 
